@@ -1,0 +1,15 @@
+{
+  "name": "python-server-iframe",
+  "version": "1.0.0",
+  "description": "A simple HTML project serving content via iframes with Vercel Web Analytics",
+  "scripts": {
+    "start": "echo 'This is a static HTML project. Serve with any HTTP server.'"
+  },
+  "keywords": [
+    "iframe",
+    "vercel",
+    "analytics"
+  ],
+  "author": "Lucas Geitgey",
+  "license": "ISC"
+}
